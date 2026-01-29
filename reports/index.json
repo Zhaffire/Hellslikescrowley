@@ -1,0 +1,30 @@
+[
+  {
+    "id": "20260128-203532-lluc",
+    "title": "Waifu Enjoyer",
+    "commanders": [
+      "Waifu Enjoyer"
+    ],
+    "dateStart": "2026-01-29T01:35:32.000Z",
+    "dateEnd": "2026-01-29T02:09:44.000Z",
+    "dateLabel": "1/28/2026, 8:35:32 PM - 1/28/2026, 9:09:44 PM",
+    "url": "https://Zhaffire.github.io/Hellslikescrowley/?report=20260128-203532-lluc",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 7,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#10b981"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 22
+    }
+  }
+]
